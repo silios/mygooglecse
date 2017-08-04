@@ -1,0 +1,6 @@
+name = Silios Google Custom Search Engine
+description = "Search site with Google custom search"
+package = "Adsense CSE"
+core = 7.x
+
+
